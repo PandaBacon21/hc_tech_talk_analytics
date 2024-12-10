@@ -188,7 +188,8 @@ def interest_feedback(attendees_with_poll):
 
 
 if __name__=='__main__': 
-    
+    # Sept file_path = '/Users/joshaiken/Desktop/hc_tech_talks/healthcare_tech_talk/Sept24/Combined_Report/HC_Tech_Talk_Results_Sept_2024.xlsx'
+    # Jan file_path = '/Users/joshaiken/Desktop/hc_tech_talks/healthcare_tech_talk/Jan25/Combined_Report/HC_Tech_Talk_Results_Jan_2025.xlsx'
     
     print('Zoom Healthcare Quarterly Tech Talks Reporting Analytics')
     file_path = input('Paste in the FULL file path to combined .xlsx file: ')
