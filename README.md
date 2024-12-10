@@ -17,3 +17,5 @@ If you prefer to use Spyder on it's own like I do, you will also need spyder and
 When pulling the reports from your Zoom Event, clear the first rows of every file so that the column headers serve as the top row. 
 
 See the ```get_dfs()``` function for the name requirements of the individual tabs of your xlxs (or csv) file. If using csv, just change the pandas function to read the csv properly.
+
+For obvious reasons, if you have unique polling questions, etc - you'll need to change those within the applicable sections in order to properly handle.
